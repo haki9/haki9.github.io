@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blog.Hakool</title>
+    <link>https://haki9.github.io/tags/</link>
+    <description>Recent content in Tags on Blog.Hakool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Jul 2020 20:00:00 +0200</lastBuildDate><atom:link href="https://haki9.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>content</title>
+      <link>https://haki9.github.io/tags/content/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://haki9.github.io/tags/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://haki9.github.io/tags/hugo/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://haki9.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static site generator</title>
+      <link>https://haki9.github.io/tags/static-site-generator/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://haki9.github.io/tags/static-site-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://haki9.github.io/tags/test/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://haki9.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

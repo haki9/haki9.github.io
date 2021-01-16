@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Blog.Hakool</title>
+    <link>https://haki9.github.io/about/</link>
+    <description>Recent content in Abouts on Blog.Hakool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Jul 2020 20:00:00 +0200</lastBuildDate><atom:link href="https://haki9.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing</title>
+      <link>https://haki9.github.io/about/about/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://haki9.github.io/about/about/</guid>
+      <description>Geekblog is a simple Hugo theme for personal blogs. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex websites. If a more feature-complete theme is required there are a lot of got alternatives out there. This post helps you to get started with the Geekblog theme, including initial setup and basic configuration.</description>
+    </item>
+    
+  </channel>
+</rss>
