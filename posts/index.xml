@@ -5,23 +5,23 @@
     <link>https://haki9.github.io/posts/</link>
     <description>Recent content in Posts on Blog.Hakool</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Jul 2020 20:00:00 +0200</lastBuildDate><atom:link href="https://haki9.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 10:18:54 +0700</lastBuildDate><atom:link href="https://haki9.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting Started</title>
-      <link>https://haki9.github.io/posts/get-start/</link>
-      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      <title>Tổng hợp những đoạn mã hay về Web</title>
+      <link>https://haki9.github.io/posts/web_tong_hop/</link>
+      <pubDate>Sat, 16 Jan 2021 10:18:54 +0700</pubDate>
       
-      <guid>https://haki9.github.io/posts/get-start/</guid>
-      <description>&lt;p&gt;Geekblog is a simple Hugo theme for personal blogs. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex websites. If a more feature-complete theme is required there are a lot of got alternatives out there. This post helps you to get started with the Geekblog theme, including initial setup and basic configuration.&lt;/p&gt;</description>
+      <guid>https://haki9.github.io/posts/web_tong_hop/</guid>
+      <description>Same Height Grid Sections - JS  Same height grid section (https://codepen.io/)   </description>
     </item>
     
     <item>
-      <title>Testing</title>
-      <link>https://haki9.github.io/posts/a/</link>
-      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      <title>Install geekblog theme</title>
+      <link>https://haki9.github.io/posts/hugo_install_geekblog_theme/</link>
+      <pubDate>Sat, 16 Jan 2021 10:13:24 +0700</pubDate>
       
-      <guid>https://haki9.github.io/posts/a/</guid>
-      <description>Geekblog is a simple Hugo theme for personal blogs. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex websites. If a more feature-complete theme is required there are a lot of got alternatives out there. This post helps you to get started with the Geekblog theme, including initial setup and basic configuration.</description>
+      <guid>https://haki9.github.io/posts/hugo_install_geekblog_theme/</guid>
+      <description>&lt;p&gt;Geekblog is a simple Hugo theme for personal blogs. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex websites. If a more feature-complete theme is required there are a lot of got alternatives out there. This post helps you to get started with the Geekblog theme, including initial setup and basic configuration.&lt;/p&gt;</description>
     </item>
     
   </channel>

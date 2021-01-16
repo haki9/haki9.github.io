@@ -3,62 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://haki9.github.io/about/</loc>
-    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://haki9.github.io/</loc>
-    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://haki9.github.io/tags/content/</loc>
-    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://haki9.github.io/posts/get-start/</loc>
-    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://haki9.github.io/tags/hugo/</loc>
-    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+    <lastmod>2021-01-16T10:18:54+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://haki9.github.io/posts/</loc>
-    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://haki9.github.io/tags/static-site-generator/</loc>
-    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+    <lastmod>2021-01-16T10:18:54+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://haki9.github.io/tags/</loc>
-    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+    <lastmod>2021-01-16T10:18:54+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://haki9.github.io/tags/test/</loc>
-    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+    <loc>https://haki9.github.io/posts/web_tong_hop/</loc>
+    <lastmod>2021-01-16T10:18:54+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://haki9.github.io/about/about/</loc>
-    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+    <loc>https://haki9.github.io/tags/Web/</loc>
+    <lastmod>2021-01-16T10:18:54+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://haki9.github.io/posts/a/</loc>
-    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+    <loc>https://haki9.github.io/tags/Hugo/</loc>
+    <lastmod>2021-01-16T10:13:24+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haki9.github.io/posts/hugo_install_geekblog_theme/</loc>
+    <lastmod>2021-01-16T10:13:24+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://haki9.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://haki9.github.io/contact/</loc>
   </url>
   
 </urlset>
