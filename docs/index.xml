@@ -5,7 +5,25 @@
     <link>https://haki9.github.io/</link>
     <description>Recent content on Blog.Hakool</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 Jan 2021 10:18:54 +0700</lastBuildDate><atom:link href="https://haki9.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 15:05:25 +0700</lastBuildDate><atom:link href="https://haki9.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React Native Youtube Channels</title>
+      <link>https://haki9.github.io/posts/rn_youtube_channel/</link>
+      <pubDate>Tue, 26 Jan 2021 15:05:25 +0700</pubDate>
+      
+      <guid>https://haki9.github.io/posts/rn_youtube_channel/</guid>
+      <description>&lt;p&gt;Tổng hợp các kênh youtube hay về React Native&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spintax Spinner</title>
+      <link>https://haki9.github.io/posts/spintax_spinner/</link>
+      <pubDate>Tue, 26 Jan 2021 12:00:53 +0700</pubDate>
+      
+      <guid>https://haki9.github.io/posts/spintax_spinner/</guid>
+      <description>&lt;p&gt;Spin content là một kỹ thuật dùng để tạo ra một nội dung mới từ nội dung gốc dựa trên thuật toán và cú pháp xáo trộn(spin). Mục đích của spin content là tạo ra nhiều nội dung bản sao từ một nội dung gốc, khác nhau ở mặt chữ và thứ tự xuất hiện câu, đoạn văn.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Tổng hợp những đoạn mã hay về Web</title>
       <link>https://haki9.github.io/posts/web_tong_hop/</link>

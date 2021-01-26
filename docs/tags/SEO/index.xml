@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JS on Blog.Hakool</title>
-    <link>https://haki9.github.io/tags/JS/</link>
-    <description>Recent content in JS on Blog.Hakool</description>
+    <title>SEO on Blog.Hakool</title>
+    <link>https://haki9.github.io/tags/SEO/</link>
+    <description>Recent content in SEO on Blog.Hakool</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Jan 2021 12:00:53 +0700</lastBuildDate><atom:link href="https://haki9.github.io/tags/JS/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 12:00:53 +0700</lastBuildDate><atom:link href="https://haki9.github.io/tags/SEO/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spintax Spinner</title>
       <link>https://haki9.github.io/posts/spintax_spinner/</link>
@@ -13,15 +13,6 @@
       
       <guid>https://haki9.github.io/posts/spintax_spinner/</guid>
       <description>&lt;p&gt;Spin content là một kỹ thuật dùng để tạo ra một nội dung mới từ nội dung gốc dựa trên thuật toán và cú pháp xáo trộn(spin). Mục đích của spin content là tạo ra nhiều nội dung bản sao từ một nội dung gốc, khác nhau ở mặt chữ và thứ tự xuất hiện câu, đoạn văn.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Visualizing the javascript runtime at runtime</title>
-      <link>https://haki9.github.io/posts/hugo_install_geekblog_theme/</link>
-      <pubDate>Sat, 16 Jan 2021 10:13:24 +0700</pubDate>
-      
-      <guid>https://haki9.github.io/posts/hugo_install_geekblog_theme/</guid>
-      <description>&lt;p&gt;Visualizing the javascript runtime at runtime&lt;/p&gt;</description>
     </item>
     
   </channel>
