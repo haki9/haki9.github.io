@@ -17,11 +17,20 @@
     
     <item>
       <title>Install geekblog theme</title>
+      <link>https://haki9.github.io/posts/hugo_install_geekblog_theme-copy/</link>
+      <pubDate>Sat, 16 Jan 2021 10:13:24 +0700</pubDate>
+      
+      <guid>https://haki9.github.io/posts/hugo_install_geekblog_theme-copy/</guid>
+      <description>&lt;p&gt;Geekblog is a simple Hugo theme for personal blogs. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex websites. If a more feature-complete theme is required there are a lot of got alternatives out there. This post helps you to get started with the Geekblog theme, including initial setup and basic configuration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing the javascript runtime at runtime</title>
       <link>https://haki9.github.io/posts/hugo_install_geekblog_theme/</link>
       <pubDate>Sat, 16 Jan 2021 10:13:24 +0700</pubDate>
       
       <guid>https://haki9.github.io/posts/hugo_install_geekblog_theme/</guid>
-      <description>&lt;p&gt;Geekblog is a simple Hugo theme for personal blogs. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex websites. If a more feature-complete theme is required there are a lot of got alternatives out there. This post helps you to get started with the Geekblog theme, including initial setup and basic configuration.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Visualizing the javascript runtime at runtime&lt;/p&gt;</description>
     </item>
     
     <item>
